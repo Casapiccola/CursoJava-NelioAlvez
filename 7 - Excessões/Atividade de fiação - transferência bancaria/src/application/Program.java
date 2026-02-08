@@ -1,7 +1,6 @@
 package application;
 
 import model.entities.Account;
-import model.enums.TransferStatus;
 import model.exceptions.TransferException;
 
 import java.util.Locale;
