@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="964518b8-663e-412d-8d5e-720390428df4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/introdução java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_1/Exercicio_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_2/Exercicio_29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_3/Exercicio_30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_4/Exercicio_31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_5/Exercicio_32.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/1 - Exercicios estruturas sequenciais/Exercicio_6/Exercicio_33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/2 - Exercicios estruturas condicionais/Exercicio_1/Exercicio_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/2 - Exercicios estruturas condicionais/Exercicio_2/Exercicio_26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/2 - Exercicios estruturas condicionais/Exercicio_3/Exercicio_25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/2 - Exercicios estruturas condicionais/Exercicio_4/Exercicio_24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/3 - Exercicios estruturas de repetição/For/For.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/3 - Exercicios estruturas de repetição/While/Exercicio_1/Exercicio_19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/3 - Exercicios estruturas de repetição/While/Exercicio_2/Exercicio_21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1 - Projetos - aplicações básicas.Atividades/3 - Exercicios estruturas de repetição/While/Exercicio_3/Exercicio_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10 - Interfaces/10 - Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 - Set e Map/Exercicio-de-fixacao SET/Exercicio-de-fixacao SET.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 - Expressão Lambda/12 - Expressão Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13 - JDBC/13 - JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/.idea/libraries/mysql_connector_j_9_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/14 - JDBC 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/jdbc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/jdbc/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/jdbc/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 - JDBC 2/jdbc/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 - Introdução a programação orientada a objetos/2- Exercicio de fixação/Exercicio_1/Exercicio_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2 - Introdução a programação orientada a objetos/2- Exercicio de fixação/Exercicio_2/Exercicio_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicio listas/Exercicio listas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicio matriz/Exercicio matriz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_1/Exercicio_23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_2/Exercicio_22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_3/Exercicio_13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_4/Exercicio_12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_5/Exercicio_15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_6/Exercicio_14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_7/Exercicio_18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_8/Exercicio_16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3 - Introdução a Arrays, vetores, listas e matrizes/Exercicios vetores/Exercicio_9/Exercicio_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Enumeração e composição/ExercicioDeFixacao - Sistema de pedidos/ExercicioDeFixacao - Sistema de pedidos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5 - Enumeração e composição/ExercicioDeFixacao - Sistema de trabalhadores/ExercicioDeFixacao - Sistema de trabalhadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6 - Herança e polimorfismo/6 - Herança e polimorfismo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7 - Classes e metodos abstratos/7 - Classes e metodos abstratos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../8 - Excessões/8 - Excessões.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9 - Arquivos/9 - Arquivos.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3CK5t3OzKxUivHIl3ojQNKvI2x5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Program.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/erikc/Desktop/Estudos_proprios/Curso de Java Nelio Alvez - Udemy/introdução java/15 - JDBC 3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erikc\Desktop\Estudos_proprios\Curso de Java Nelio Alvez - Udemy\introdução java\15 - JDBC 3" />
+      <recent name="C:\Users\erikc\Desktop\Estudos_proprios\Curso de Java Nelio Alvez - Udemy\introdução java\15 - JDBC 3\jdbc" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="964518b8-663e-412d-8d5e-720390428df4" name="Changes" comment="" />
+      <created>1776121631835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776121631835</updated>
+      <workItem from="1776121633042" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
